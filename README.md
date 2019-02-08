@@ -1,4 +1,4 @@
-# DictinaryJetBrainsLang
+# DictionaryJetBrainsLang
 Dictionary from some lang
 
 To add dictionaries to your IDE
